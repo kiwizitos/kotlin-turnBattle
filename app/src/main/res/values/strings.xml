@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battledore</string>
+    <string name="vida_do_jogador">Vida do jogador: %d</string>
+    <string name="vida_do_bot">Vida do bot: %d</string>
+</resources>
